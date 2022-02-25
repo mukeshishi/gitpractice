@@ -1,0 +1,4 @@
+What does Git stand for in Linux?
+Global Information Tracker
+A three letter command is quick and easy to say and type. The word "Git" is not used by any other existing Unix command. The initial working version of Git's code was very simple, so much so that he finds it deserving of insult. An acronym for Global Information Tracker, at least when it works properly.10-May-2020
+
